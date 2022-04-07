@@ -37,3 +37,73 @@ make
 https://www.phoronix.com/scan.php?page=phoronix_news
  
 https://github.com/phoronix-test-suite/phoronix-test-suite/releases
+
+```
+密码学测试
+phoronix-test-suite benchmark cryptography
+phoronix-test-suite benchmark botan
+phoronix-test-suite benchmark scimark2
+phoronix-test-suite benchmark openssl
+
+系统内核性能
+phoronix-test-suite benchmark kernel
+phoronix-test-suite benchmark compress-gzip
+phoronix-test-suite benchmark compress-7zip
+
+网络测试
+phoronix-test-suite benchmark netperf
+phoronix-test-suite benchmark iperf
+phoronix-test-suite benchmark network-loopback
+
+系统启动时间
+phoronix-test-suite benchmark systemd-boot-total
+
+
+cpu
+phoronix-test-suite benchmark smallpt
+phoronix-test-suite benchmark npb
+phoronix-test-suite benchmark crafty
+phoronix-test-suite benchmark cachebench
+
+中间件
+phoronix-test-suite benchmark nginx
+phoronix-test-suite benchmark java-scimark2
+phoronix-test-suite benchmark pgbench
+phoronix-test-suite benchmark go-benchmark
+
+磁盘与文件系统
+phoronix-test-suite benchmark tiobench
+phoronix-test-suite benchmark fs-mark
+phoronix-test-suite benchmark compilebench
+phoronix-test-suite benchmark fio
+
+内存性能
+phoronix-test-suite benchmark ramspeed
+phoronix-test-suite benchmark stream
+
+深度学习
+phoronix-test-suite benchmark caffe
+```
+
+```
+pts/all
+pts/benchmark (基准)
+pts/java
+pts/golang
+pts/lapack (线性代数)
+pts/linux
+pts/system
+pts/cpu
+pts/memory
+pts/disk
+pts/multicore （多线程）
+pts/network
+pts/processor (CPU)
+pts/docker
+```
+
+
+
+
+
+
