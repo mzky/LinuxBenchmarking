@@ -33,5 +33,7 @@ make
  ```
  
  
- ### 相关网站
- https://www.phoronix.com/scan.php?page=phoronix_news
+### 比较权威的跑分工具
+https://www.phoronix.com/scan.php?page=phoronix_news
+ 
+https://github.com/phoronix-test-suite/phoronix-test-suite/releases
