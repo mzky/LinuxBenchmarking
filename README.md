@@ -104,7 +104,7 @@ pts/docker
 
 批量测试
 ```
-phoronix-test-suite batch-benchmark mysql nginx pgbench redis java-scimark2 go-benchmark botan scimark2 openssl kernel compress-gzip compress-7zip netperf iperf network-loopback systemd-boot-total smallpt crafty cachebench tiobench fs-mark compilebench fio ramspeed stream caffe
+phoronix-test-suite benchmark mysql nginx pgbench redis java-scimark2 go-benchmark botan scimark2 openssl kernel compress-gzip compress-7zip netperf iperf network-loopback systemd-boot-total smallpt crafty cachebench tiobench fs-mark compilebench fio ramspeed stream caffe
 ```
 
 
