@@ -102,7 +102,7 @@ pts/processor (CPU)
 pts/docker
 ```
 
-批量测试
+批量测试（需交互，手动选择测试项）
 ```
 phoronix-test-suite benchmark mysql nginx pgbench redis java-scimark2 go-benchmark botan scimark2 openssl kernel compress-gzip compress-7zip netperf iperf network-loopback systemd-boot-total smallpt crafty cachebench tiobench fs-mark compilebench fio ramspeed stream caffe
 ```
